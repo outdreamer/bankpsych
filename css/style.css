@@ -26,3 +26,6 @@
 #span2{
 	display: inline-block; vertical-align: top; padding: 5px; margin-left: 100px; width:85%
 }
+canvas {
+	background-color: #FFF;
+}
