@@ -26,12 +26,12 @@ Future Release Features:
 Future Related Applications:
 
 	- shared credit to aggregate points/rewards - points-sharing tool
-	- expertise locator
-	- called it - resource sharer-locator
+	- called it - resource sharer-locator for local resources to notify your friends of a parking space you aren't using today, a deal on drinks you want them to be able to use, etc.
 
 Algorithm Metrics:
 	- estimate value of future technology as well as economic events (inventions that close gap between reality and equilibrium)
-
+	- the algorithm can use metric percentages stored in a config file (for instance, adding a "economic recession" node impacts the rate of return on their initial investment by x%)
+	
 Resources
 - Go JS
 - Landing page template: https://startbootstrap.com/template-overviews/landing-page/
