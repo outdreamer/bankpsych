@@ -3,9 +3,7 @@
         "php": ">=5.3.0",
         "silex/silex": "~1.0@dev",
         "chh/cache-service-provider": "~1.0",
-        "ext-libevent": "*",
-        "ext-curl": "*",
-        "ext-sundown": "*"
+        "ext-curl": "*"
     },
     "extra": {
         "heroku": {
