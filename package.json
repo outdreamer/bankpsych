@@ -1,8 +1,0 @@
-{
-  "name": "outdreamer-bankpsych",
-  "version": "1.0.0",
-  "main": "index.html",
-  "dependencies": {
-    "gojs": "^1.6.17"
-  }
-}
