@@ -1,3 +1,5 @@
+#Bank Psych Prototype
+
 gui tool to build flow charts based on consumer decision trees at life event decision points
 
 tool for estimating loan payments
@@ -29,4 +31,6 @@ called it - resource sharer-locator
 
 estimate value of future inventions (inventions that close gap between reality and equilibrium)
 
-jad session eradicator - use online forms to list questions that they answer at their leisure
+we want a user to be able to click & drag icons and the links between icons will be automatic or can be edited
+
+there should be a way for them to specify the year in which these decisions take place, as well as the amount for a loan or income percentage

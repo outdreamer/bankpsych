@@ -1,0 +1,28 @@
+.intro-header {
+	height:280px;
+}
+.intro-message {
+	padding: 20px;
+}
+.col-sm-2.col-sm-offset-1 {
+	position:relative;
+	top:3em;
+}
+.btn.btn-lg.btn-primary.dropdown-toggle {
+	background-color: #79C900;
+}
+#myPaletteDiv {
+	border: solid 1px gray; height: 720px; width: 200px;
+}
+#myDiagramDiv {
+	border: solid 1px gray; height: 720px;
+}
+#block1 {
+	width:100%; white-space:nowrap;
+}
+#span1{
+	display: inline-block; vertical-align: top; padding: 5px; width:100px
+}
+#span2{
+	display: inline-block; vertical-align: top; padding: 5px; margin-left: 100px; width:85%
+}
