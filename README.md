@@ -1,5 +1,7 @@
 #Bank Psych Prototype
 
+This app is accessible at: https://bankpsych.herokuapp.com
+
 GUI tool to estimate their future assets based on external market factors & their life decisions; each estimate will be saved to their profile.
 
 Market Factors:
