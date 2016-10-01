@@ -69,6 +69,7 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Let's Start</h2>
                     <div id="sample">
+                      <p>Estimate your Future Funds for the current decision path by clicking Re-calculate</p>
                       <div class="row">
                         <div class="col-sm-4 col-sm-offset-1">
                           <div class="form-group">
@@ -94,7 +95,37 @@
                          </div>
                         </div>
                         <div class="col-sm-2 col-sm-offset-1">
-                          <button id="recalculate" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i>Re-calculate</button>
+                          <button id="recalculate" class="btn btn-default btn-lg">Re-calculate</button>
+                        </div>
+                      </div>
+                      <br />
+                      <p>See a recommended path based on the Target Amount you want to have in the selected year.</p>
+                      <div class="row">
+                        <div class="col-sm-4 col-sm-offset-1">
+                          <div class="form-group">
+                            <label for="future-funds"><h4>Recommend a Decision Path to help me save this amount:</h4></label>
+                            <input type="text" class="form-control" id="target-amount" name="target-amount"  value="">
+                          </div>
+                        </div>
+                        <div class="col-sm-2 col-sm-offset-1">
+                         <div class="dropdown">
+                          <button class="btn btn-lg btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Select A Year
+                          <span class="caret"></span></button>
+                          <ul class="dropdown-menu">
+                            <li><a>2017</a></li>
+                            <li><a>2018</a></li>
+                            <li><a>2019</a></li>
+                            <li><a>2020</a></li>
+                            <li><a>2021</a></li>
+                            <li><a>2022</a></li>
+                            <li><a>2023</a></li>
+                            <li><a>2024</a></li>
+                            <li><a>2025</a></li>
+                          </ul>
+                         </div>
+                        </div>
+                        <div class="col-sm-2 col-sm-offset-1">
+                          <button id="recommend" class="btn btn-default btn-lg">Recommend</button>
                         </div>
                       </div>
                       <br />

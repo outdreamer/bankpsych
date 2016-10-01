@@ -284,6 +284,13 @@
 
   });
 
+  $(".dropdown-menu li a").click(function(){
+
+    $(".dropdown-toggle:first-child").text("Selected: " + $(this).text());
+    $(".dropdown-toggle:first-child").val($(this).text());
+
+  });
+
 });
 
 })(jQuery);
