@@ -280,7 +280,7 @@
     //this value should be calculated with algorithm pulling in api data
     var random_val = Math.random() * (100000 - 10000) + 10000;
     var rounded = Math.round(random_val*Math.pow(10,2))/Math.pow(10,2);
-    $('input[name=future-funds]').val(rounded);
+    $('input[name=future-funds]').val('$' + rounded);
 
   });
 
